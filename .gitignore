@@ -1,6 +1,7 @@
 # GENERAL FILES
 .DS_Store
 /.DS_Store
+docs/.DS_Store
 
 # History files
 .Rhistory
